@@ -55,8 +55,6 @@ javascript-project/
 │ ├── todo-list/
 │ └── weather-app/
 │
-├── tests/
-│
 └── README.md
 ```
 ## Basic Concepts
