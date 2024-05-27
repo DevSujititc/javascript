@@ -28,6 +28,7 @@ To get started with this project, you'll need to have Node.js and Git installed 
 
 The project is organized into several directories, each focusing on a different level of JavaScript proficiency.
 
+```bash
 
 javascript-project/
 │
@@ -57,7 +58,7 @@ javascript-project/
 ├── tests/
 │
 └── README.md
-
+```
 ## Basic Concepts
 
 The `basics` directory covers fundamental JavaScript concepts, including:
