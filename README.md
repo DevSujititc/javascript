@@ -21,28 +21,13 @@ This repository is a comprehensive guide to learning JavaScript. It is structure
 
 ## Getting Started
 
-To get started with this project, you'll need to have Node.js and Git installed on your machine. Follow these steps to set up the project:
+To get started with this project, you'll need to have Node.js and Git installed on your machine.
 
-1. **Clone the repository:**
-    ```sh
-    git clone https://github.com/your-username/javascript-project.git
-    ```
-2. **Navigate into the project directory:**
-    ```sh
-    cd javascript-project
-    ```
-3. **Install dependencies:**
-    ```sh
-    npm install
-    ```
-4. **Run the project:**
-    ```sh
-    npm start
-    ```
 
 ## Project Structure
 
 The project is organized into several directories, each focusing on a different level of JavaScript proficiency.
+
 
 javascript-project/
 │
@@ -68,6 +53,8 @@ javascript-project/
 │ ├── calculator/
 │ ├── todo-list/
 │ └── weather-app/
+│
+├── tests/
 │
 └── README.md
 
@@ -101,7 +88,3 @@ In the `advanced` directory, you'll find content on:
 ## Contributing
 
 We welcome contributions from the community! If you'd like to contribute, please fork the repository and create a pull request with your changes. Be sure to follow the project's coding standards and guidelines.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
