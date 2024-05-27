@@ -3,6 +3,9 @@
 The `basics` directory covers fundamental JavaScript concepts, including:
 
 - **Variables:** Learn about `var`, `let`, and `const`.
+- **Functions:** Understand function declarations, expressions, and arrow functions.
+- **Arrays:** Explore array methods and operations.
+- **Objects:** Get to know object properties, methods, and the `this` keyword.
 
 ### Variables
 
