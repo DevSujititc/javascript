@@ -83,7 +83,3 @@ In the `advanced` directory, you'll find content on:
 - **Design Patterns:** Learn about common design patterns in JavaScript.
 - **Testing:** Introduction to testing with frameworks like Jest and Mocha.
 - **Performance:** Tips and techniques for optimizing JavaScript performance.
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute, please fork the repository and create a pull request with your changes. Be sure to follow the project's coding standards and guidelines.
