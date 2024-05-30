@@ -87,3 +87,8 @@ console.log(numbers[2]); // Output: 3
 - **pop**: Removes the last element from an array.
 - **shift**: Removes the first element from an array.
 - **unshift**: Adds one or more elements to the beginning of an array.
+- **forEach**: Executes for each array element but not executed for empty elements.
+- **map**: The map() method creates a new array by applying a function to each element of an existing array, returning the new array.
+- **filter**: Creates a new array with all elements that pass the test implemented by the provided function.
+- **reducer**: Executes a reducer function on array elements and returns the accumulated result as a single value.
+- **find**: Returns the value of the first element in the array that satisfies the provided testing function. Otherwise, it returns undefined.
