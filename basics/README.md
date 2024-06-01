@@ -92,3 +92,55 @@ console.log(numbers[2]); // Output: 3
 - **filter**: Creates a new array with all elements that pass the test implemented by the provided function.
 - **reducer**: Executes a reducer function on array elements and returns the accumulated result as a single value.
 - **find**: Returns the value of the first element in the array that satisfies the provided testing function. Otherwise, it returns undefined.
+
+**Example:** All examples of array methods can be found in a separate file.
+
+### Objects
+
+Objects are a fundamental aspect of JavaScript, enabling you to group related data and functions together. An object is a collection of properties, each defined as a key-value pair.
+
+#### Creating Objects
+
+You can create objects in multiple ways:
+
+```javascript
+// Using object literal syntax
+let person = {
+  name: "Sujit Shah",
+  age: 35,
+  address: function() {
+    console.log("Kathmandu, Nepal");
+  }
+};
+
+// Using the Object constructor
+let person2 = new Object();
+person2.name = "Rojina K";
+person2.age = 30;
+person2.greet = function() {
+  console.log("Hi there!");
+};
+
+```
+
+#### Object Properties
+
+You can access object properties using dot notation or bracket notation
+
+```javascript
+
+console.log(person.name); // Output: Sujit Shah
+console.log(person["age"]); // Output: 35
+
+```
+You can access object properties using dot notation or bracket notation:
+**Example:** Accessing Object Properties in file `objectPropAccess.js`.
+
+You can add new properties or modify existing properties using dot notation or bracket notation
+**Example:** Adding and Modifying Properties in file `objectPropAdd.js`.
+
+Methods are functions that are stored as object properties. You can define methods in an object to perform actions on that object’s properties.
+**Example:** Object Methods in file `objectMethod.js`.
+
+The 'this' keyword refers to the object from which the method was called. It allows you to access the object's properties and methods from within the object itself.
+**Example:** The this Keyword in file `objectThis.js`.
