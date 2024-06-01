@@ -134,6 +134,7 @@ console.log(person["age"]); // Output: 35
 
 ```
 You can access object properties using dot notation or bracket notation:
+
 **Example:** Accessing Object Properties in file `objectPropAccess.js`.
 
 You can add new properties or modify existing properties using dot notation or bracket notation
