@@ -137,10 +137,13 @@ You can access object properties using dot notation or bracket notation:
 **Example:** Accessing Object Properties in file `objectPropAccess.js`.
 
 You can add new properties or modify existing properties using dot notation or bracket notation
+
 **Example:** Adding and Modifying Properties in file `objectPropAdd.js`.
 
 Methods are functions that are stored as object properties. You can define methods in an object to perform actions on that object’s properties.
+
 **Example:** Object Methods in file `objectMethod.js`.
 
 The 'this' keyword refers to the object from which the method was called. It allows you to access the object's properties and methods from within the object itself.
+
 **Example:** The this Keyword in file `objectThis.js`.
